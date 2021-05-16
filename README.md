@@ -6,6 +6,8 @@ In contrast to several other Jellyfin CLIs, `jfcli` does not enable or support p
 
 `jfcli` is tested only on Linux; while it should work cross platform, this is not guaranteed by the author. Outside assistance is always apprecaited here.
 
+**NOTE**: `jfcli` is not functional yet and is in its initial stages.
+
 ## What does it do
 
 `jfcli` seeks to provide three main functions:
